@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Watch out for cows!",
+    "name": "Attack Cow!",
+    "uuid":"9aa7c2d8-b056-47ad-af06-c96e12f889d7",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+  [
+    {
+      "description": "Attack cows!",
+      "type": "data",
+      "uuid": "cc862644-72fe-4b57-a931-022445afef44",
+      "version": [1, 0, 0]
+    }
+  ]
+}
